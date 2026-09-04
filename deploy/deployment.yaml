@@ -18,7 +18,7 @@ spec:
         app: accounts
     spec:
       containers:
-      - image: us.icr.io/sn-labs-thsh0881/accounts:1
+      - image: IMAGE_NAME_HERE
         name: accounts
         resources: {}
 
